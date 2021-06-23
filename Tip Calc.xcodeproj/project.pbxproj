@@ -16,6 +16,9 @@
 		FDACD63326827738007FD72E /* Tip_CalcTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FDACD63226827738007FD72E /* Tip_CalcTests.m */; };
 		FDACD63E26827739007FD72E /* Tip_CalcUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FDACD63D26827739007FD72E /* Tip_CalcUITests.m */; };
 		FDACD64D2682ADD7007FD72E /* TipViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FDACD64C2682ADD7007FD72E /* TipViewController.m */; };
+		FDACD64F2682E2C3007FD72E /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = FDACD64E2682E2C3007FD72E /* .gitignore */; };
+		FDACD6512682E308007FD72E /* .gitattributes in Resources */ = {isa = PBXBuildFile; fileRef = FDACD6502682E308007FD72E /* .gitattributes */; };
+		FDACD6532682E345007FD72E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FDACD6522682E345007FD72E /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +57,9 @@
 		FDACD63F26827739007FD72E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FDACD64B2682ADD7007FD72E /* TipViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TipViewController.h; sourceTree = "<group>"; };
 		FDACD64C2682ADD7007FD72E /* TipViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TipViewController.m; sourceTree = "<group>"; };
+		FDACD64E2682E2C3007FD72E /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		FDACD6502682E308007FD72E /* .gitattributes */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitattributes; sourceTree = "<group>"; };
+		FDACD6522682E345007FD72E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +90,9 @@
 		FDACD60A26827737007FD72E = {
 			isa = PBXGroup;
 			children = (
+				FDACD64E2682E2C3007FD72E /* .gitignore */,
+				FDACD6502682E308007FD72E /* .gitattributes */,
+				FDACD6522682E345007FD72E /* README.md */,
 				FDACD61526827737007FD72E /* Tip Calc */,
 				FDACD63126827738007FD72E /* Tip CalcTests */,
 				FDACD63C26827739007FD72E /* Tip CalcUITests */,
@@ -239,6 +248,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDACD6532682E345007FD72E /* README.md in Resources */,
+				FDACD6512682E308007FD72E /* .gitattributes in Resources */,
+				FDACD64F2682E2C3007FD72E /* .gitignore in Resources */,
 				FDACD62626827738007FD72E /* LaunchScreen.storyboard in Resources */,
 				FDACD62326827738007FD72E /* Assets.xcassets in Resources */,
 				FDACD62126827737007FD72E /* Main.storyboard in Resources */,
