@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![GIF overview of Tip Calc app's features](https://i.imgur.com/uSWkFpz.gif)
+![GIF demo of Tip Calc's features](https://i.imgur.com/EdlwZIk.gif)
 
 GIF created with [EZGIF.COM](https://ezgif.com/video-to-gif).
 
